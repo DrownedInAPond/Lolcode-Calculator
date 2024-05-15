@@ -28,7 +28,7 @@ IM IN YR LOOP
             VISIBLE QUOSHUNT OF InputNum1 AN InputNum2
         OIC
     OIC
-    VISIBLE "continue?"
+    VISIBLE "Again?"
     GIMMEH yesno
 IM OUTTA YR LOOP
 KTHXBYE
